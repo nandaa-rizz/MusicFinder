@@ -1,0 +1,5 @@
+<resources>
+    <string name="search_hint">Search song or artist…</string>
+    <string name="search_button">Search Song</string>
+    <string name="placeholder_text">Start by searching a song…</string>
+</resources>
